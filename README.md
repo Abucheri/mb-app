@@ -12,3 +12,6 @@ since we want to return a list of objects, we'll use 'object_list' name since th
 object_list leads to confusion sometimes, so we are going to change the context_object_name in posts/views.py.
 also update our template.
 Let's set up our urls starting with the project level urls then our app urls.
+now let's do the app testing using the model.
+now we neeed to test our view, we will add one more test for the view to test if it exists.
+We’ll add one more import at the top for reverse and a brand new class HomePageViewTest for our test

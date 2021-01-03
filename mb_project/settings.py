@@ -26,7 +26,7 @@ SECRET_KEY = '&j2izqrwcq2#g3q86z@6_nkj&-oci6f(i+ikwnd-nbz0-lj5-1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['mboardsender.herokuapp.com']
 
 
 # Application definition
